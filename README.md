@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Shawn-Bellazan-jr/Wishful-AI/blob/main/assets/wich.png)
 # Wishful AI: Turn Your Dreams Into Reality
 
 Wishful AI is a groundbreaking mobile app that empowers individuals to turn their wishes into actionable business ideas. Whether you're dreaming of starting a new venture, seeking validation for your concept, or looking for guidance on your entrepreneurial journey, Wishful AI is your ultimate companion.
